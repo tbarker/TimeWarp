@@ -1,0 +1,6 @@
+TimeWarp
+========
+
+A simple package for winding back (and forward) the Oracle system clock for testing.
+
+Should be installed as SYS.  "Normal" test accounts can then be granted execute permissions.
